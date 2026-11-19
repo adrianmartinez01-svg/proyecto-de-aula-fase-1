@@ -1,0 +1,718 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20261119055354MIFQB4</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20261119055354HNEOJU</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.6</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Proyecto de aula fase 1</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Practica</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Adrián Martínez - Lenin Granados </value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.6</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1795087259953</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_passScore</key>
+    <value>5</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_passScoreEveryActivity</key>
+    <value>false</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mwndr3dr-en0lhdy92</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Carta</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Carta</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Carta</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwndr3dr-en0lhdy92</odePageId>
+      <odeBlockId>block-mwnfptlt-dqm10tyup</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwndr3dr-en0lhdy92</odePageId>
+          <odeBlockId>block-mwnfptlt-dqm10tyup</odeBlockId>
+          <odeIdeviceId>idevice-1795085765920-vgve9p6yo</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1795085765920-vgve9p6yo" title="" href="{{context_path}}/content/resources/WhatsApp Image 2026-11-19 at 5.04.41 AM.jpeg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/WhatsApp Image 2026-11-19 at 5.04.41 AM.jpeg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1795085765920-vgve9p6yo","img_0":{"img":"{{context_path}}/content/resources/WhatsApp Image 2026-11-19 at 5.04.41 AM.jpeg","thumbnail":"{{context_path}}/content/resources/WhatsApp Image 2026-11-19 at 5.04.41 AM.jpeg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwne2gi8-2vle9yzh9</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Diario de campo de observación </pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Diario de campo de observación </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Diario de campo de observación </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwne2gi8-2vle9yzh9</odePageId>
+      <odeBlockId>block-mwnfqlbu-y1gcbv2xc</odeBlockId>
+      <blockName>Archivos adjuntos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwne2gi8-2vle9yzh9</odePageId>
+          <odeBlockId>block-mwnfqlbu-y1gcbv2xc</odeBlockId>
+          <odeIdeviceId>idevice-1795085801849-0r3rks0ag</odeIdeviceId>
+          <odeIdeviceTypeName>file-attachment</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- File attachment iDevice template start -->
+<div class="exe-file-attachment-template">
+  <!-- iDevice content start -->
+  <div class="fileAttachment-IDevice"><ul class="fileAttachment-list"><li class="fileAttachment-item fileAttachment-item--pdf"><a class="fileAttachment-link" href="{{context_path}}/content/resources/Diario de Campo .pdf" download="Diario de Campo .pdf">
+                <span class="fileAttachment-icon fileAttachment-icon--pdf" aria-hidden="true"><svg class="fileAttachment-glyph" viewBox="0 0 40 48" width="40" height="48" focusable="false" aria-hidden="true"><path class="fileAttachment-glyph-page" d="M4 2h22l10 10v34a0 0 0 0 1 0 0H4a0 0 0 0 1 0 0V2z"/><path class="fileAttachment-glyph-fold" d="M26 2l10 10H26z"/><text class="fileAttachment-glyph-label" x="20" y="34" text-anchor="middle">PDF</text></svg></span>
+                <span class="fileAttachment-text">
+                    <span class="exe-sr-only">Descargar </span><span class="fileAttachment-title">Diario de Campo .pdf</span>
+                    <span class="fileAttachment-meta">344 KB</span>
+                </span>
+            </a></li></ul></div>
+  <!-- iDevice content end -->
+</div>
+<!-- File attachment iDevice template end -->
+]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1795085801849-0r3rks0ag","intro":"","showDescriptions":true,"attachments":[{"url":"{{context_path}}/content/resources/Diario de Campo .pdf","filename":"Diario de Campo .pdf","mimeType":"application/pdf","size":352277,"title":"","description":""}]}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwnev4ac-7wzic8syw</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>evidencia fotográfica de la aplicación de la prueba  </pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>evidencia fotográfica de la aplicación de la prueba  </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>evidencia fotográfica de la aplicación de la prueba  </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwnev4ac-7wzic8syw</odePageId>
+      <odeBlockId>block-mwnev9zm-oj4wuk7j8</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwnev4ac-7wzic8syw</odePageId>
+          <odeBlockId>block-mwnev9zm-oj4wuk7j8</odeBlockId>
+          <odeIdeviceId>idevice-1795084340813-8hs9exrjo</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1795084340813-8hs9exrjo" title="" href="{{context_path}}/content/resources/WhatsApp Image 2026-11-18 at 5.16.01 PM.jpeg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/WhatsApp Image 2026-11-18 at 5.16.01 PM.jpeg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_1" class="imageContainer"> <a idevice-id="idevice-1795084340813-8hs9exrjo" title="" href="{{context_path}}/content/resources/WhatsApp Image 2026-11-18 at 5.16.01 PM (1).jpeg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/WhatsApp Image 2026-11-18 at 5.16.01 PM (1).jpeg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_2" class="imageContainer"> <a idevice-id="idevice-1795084340813-8hs9exrjo" title="" href="{{context_path}}/content/resources/WhatsApp Image 2026-11-18 at 5.16.01 PM (2).jpeg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/WhatsApp Image 2026-11-18 at 5.16.01 PM (2).jpeg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1795084340813-8hs9exrjo","img_0":{"img":"{{context_path}}/content/resources/WhatsApp Image 2026-11-18 at 5.16.01 PM.jpeg","thumbnail":"{{context_path}}/content/resources/WhatsApp Image 2026-11-18 at 5.16.01 PM.jpeg","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_1":{"img":"{{context_path}}/content/resources/WhatsApp Image 2026-11-18 at 5.16.01 PM (1).jpeg","thumbnail":"{{context_path}}/content/resources/WhatsApp Image 2026-11-18 at 5.16.01 PM (1).jpeg","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_2":{"img":"{{context_path}}/content/resources/WhatsApp Image 2026-11-18 at 5.16.01 PM (2).jpeg","thumbnail":"{{context_path}}/content/resources/WhatsApp Image 2026-11-18 at 5.16.01 PM (2).jpeg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwnf6y1e-t2zqyh9po</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Evidencia fotográfica de la explicación </pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evidencia fotográfica de la explicación </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evidencia fotográfica de la explicación </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwnf6y1e-t2zqyh9po</odePageId>
+      <odeBlockId>block-mwnf711q-4ferygi35</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwnf6y1e-t2zqyh9po</odePageId>
+          <odeBlockId>block-mwnf711q-4ferygi35</odeBlockId>
+          <odeIdeviceId>idevice-1795084889100-ddgn3vbdh</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1795084889100-ddgn3vbdh" title="" href="{{context_path}}/content/resources/WhatsApp Image 2026-11-18 at 5.16.02 PM (1).jpeg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/WhatsApp Image 2026-11-18 at 5.16.02 PM (1).jpeg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_1" class="imageContainer"> <a idevice-id="idevice-1795084889100-ddgn3vbdh" title="" href="{{context_path}}/content/resources/WhatsApp Image 2026-11-18 at 5.16.02 PM.jpeg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/WhatsApp Image 2026-11-18 at 5.16.02 PM.jpeg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_2" class="imageContainer"> <a idevice-id="idevice-1795084889100-ddgn3vbdh" title="" href="{{context_path}}/content/resources/WhatsApp Image 2026-11-18 at 5.16.01 PM (3).jpeg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/WhatsApp Image 2026-11-18 at 5.16.01 PM (3).jpeg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1795084889100-ddgn3vbdh","img_0":{"img":"{{context_path}}/content/resources/WhatsApp Image 2026-11-18 at 5.16.02 PM (1).jpeg","thumbnail":"{{context_path}}/content/resources/WhatsApp Image 2026-11-18 at 5.16.02 PM (1).jpeg","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_1":{"img":"{{context_path}}/content/resources/WhatsApp Image 2026-11-18 at 5.16.02 PM.jpeg","thumbnail":"{{context_path}}/content/resources/WhatsApp Image 2026-11-18 at 5.16.02 PM.jpeg","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_2":{"img":"{{context_path}}/content/resources/WhatsApp Image 2026-11-18 at 5.16.01 PM (3).jpeg","thumbnail":"{{context_path}}/content/resources/WhatsApp Image 2026-11-18 at 5.16.01 PM (3).jpeg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwnf8rm8-g5xoipbof</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Evidencia fotográfica de la aplicación de plan de clase</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evidencia fotográfica de la aplicación de plan de clase</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evidencia fotográfica de la aplicación de plan de clase</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwnf8rm8-g5xoipbof</odePageId>
+      <odeBlockId>block-mwnfb6jx-x4c3933ux</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwnf8rm8-g5xoipbof</odePageId>
+          <odeBlockId>block-mwnfb6jx-x4c3933ux</odeBlockId>
+          <odeIdeviceId>idevice-1795085082860-e6oe7bvg1</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1795085082860-e6oe7bvg1" title="" href="{{context_path}}/content/resources/WhatsApp Image 2026-11-12 at 4.26.22 PM.jpeg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/WhatsApp Image 2026-11-12 at 4.26.22 PM.jpeg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_1" class="imageContainer"> <a idevice-id="idevice-1795085082860-e6oe7bvg1" title="" href="{{context_path}}/content/resources/WhatsApp Image 2026-11-12 at 4.26.22 PM (1).jpeg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/WhatsApp Image 2026-11-12 at 4.26.22 PM (1).jpeg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_2" class="imageContainer"> <a idevice-id="idevice-1795085082860-e6oe7bvg1" title="" href="{{context_path}}/content/resources/WhatsApp Image 2026-11-19 at 5.47.03 AM.jpeg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/WhatsApp Image 2026-11-19 at 5.47.03 AM.jpeg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1795085082860-e6oe7bvg1","img_0":{"img":"{{context_path}}/content/resources/WhatsApp Image 2026-11-12 at 4.26.22 PM.jpeg","thumbnail":"{{context_path}}/content/resources/WhatsApp Image 2026-11-12 at 4.26.22 PM.jpeg","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_1":{"img":"{{context_path}}/content/resources/WhatsApp Image 2026-11-12 at 4.26.22 PM (1).jpeg","thumbnail":"{{context_path}}/content/resources/WhatsApp Image 2026-11-12 at 4.26.22 PM (1).jpeg","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_2":{"img":"{{context_path}}/content/resources/WhatsApp Image 2026-11-19 at 5.47.03 AM.jpeg","thumbnail":"{{context_path}}/content/resources/WhatsApp Image 2026-11-19 at 5.47.03 AM.jpeg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwnfg5m8-d2vrbikiy</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>lista de chequeo</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>lista de chequeo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>lista de chequeo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwnfg5m8-d2vrbikiy</odePageId>
+      <odeBlockId>block-mwnfmdak-w7qmy4mzm</odeBlockId>
+      <blockName>Archivos adjuntos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwnfg5m8-d2vrbikiy</odePageId>
+          <odeBlockId>block-mwnfmdak-w7qmy4mzm</odeBlockId>
+          <odeIdeviceId>idevice-1795085604803-za5kli065</odeIdeviceId>
+          <odeIdeviceTypeName>file-attachment</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- File attachment iDevice template start -->
+<div class="exe-file-attachment-template">
+  <!-- iDevice content start -->
+  <div class="fileAttachment-IDevice"><ul class="fileAttachment-list"><li class="fileAttachment-item fileAttachment-item--pdf"><a class="fileAttachment-link" href="{{context_path}}/content/resources/Adobe Scan 13 nov 2026.pdf" download="Adobe Scan 13 nov 2026.pdf">
+                <span class="fileAttachment-icon fileAttachment-icon--pdf" aria-hidden="true"><svg class="fileAttachment-glyph" viewBox="0 0 40 48" width="40" height="48" focusable="false" aria-hidden="true"><path class="fileAttachment-glyph-page" d="M4 2h22l10 10v34a0 0 0 0 1 0 0H4a0 0 0 0 1 0 0V2z"/><path class="fileAttachment-glyph-fold" d="M26 2l10 10H26z"/><text class="fileAttachment-glyph-label" x="20" y="34" text-anchor="middle">PDF</text></svg></span>
+                <span class="fileAttachment-text">
+                    <span class="exe-sr-only">Descargar </span><span class="fileAttachment-title">Adobe Scan 13 nov 2026.pdf</span>
+                    <span class="fileAttachment-meta">608.9 KB</span>
+                </span>
+            </a></li></ul></div>
+  <!-- iDevice content end -->
+</div>
+<!-- File attachment iDevice template end -->
+]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1795085604803-za5kli065","intro":"","showDescriptions":true,"attachments":[{"url":"{{context_path}}/content/resources/Adobe Scan 13 nov 2026.pdf","filename":"Adobe Scan 13 nov 2026.pdf","mimeType":"application/pdf","size":623526,"title":"","description":""}]}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
